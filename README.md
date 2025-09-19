@@ -34,7 +34,7 @@ No AI was used.
 
 ---
 
-## 💻 Running the Game
+## 💻 Running the Program
 
 - Open the `main.py` file in [PyCharm](https://www.jetbrains.com/pycharm/)  
 - Click **Run ▶** to start the game  
